@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0mm;
 }
 h1{
     font-size:50px;
@@ -20,6 +21,13 @@ h1{
     padding-right: 2%;
 }
 .first-pera img{
-width: 100%;
-resize: 50%;
+width: 95%;
+
+}
+.Top-side-banner{
+    background-image: url("Images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 510px;
 }
