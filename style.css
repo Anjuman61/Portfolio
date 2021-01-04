@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px;
+}
+.highlight{
+    color: rgb(21, 219, 104);
+}
+.style-1{
+    font-size: 20px;
+    font-style: inherit;
+    color: lightcoral;
+}
+.first-pera{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding-right: 2%;
+}
+.first-pera img{
+width: 100%;
+resize: 50%;
+}
